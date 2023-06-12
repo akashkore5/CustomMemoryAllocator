@@ -99,12 +99,6 @@ int main() {
 }
 ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to customize and integrate the custom memory allocator code into your projects as per your requirements.
-
 ## Contributions
 
 Contributions to the project are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.

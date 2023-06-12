@@ -1,4 +1,4 @@
-```markdown
+
 # Custom Memory Allocator
 
 This is a custom memory allocator written in C that provides functionality similar to `malloc`, `free`, and `realloc`. The allocator allows dynamic allocation and deallocation of memory blocks and provides the ability to resize allocated memory.
@@ -13,4 +13,4 @@ This is a custom memory allocator written in C that provides functionality simil
 
 - [C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language))
 - [Memory Allocation in C](https://en.wikipedia.org/wiki/C_dynamic_memory_allocation)
-```
+
